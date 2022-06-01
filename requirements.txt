@@ -1,0 +1,4 @@
+docx==0.2.4
+python_docx==0.8.11
+reportlab==3.6.9
+svglib==1.3.0
